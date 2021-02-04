@@ -1,6 +1,11 @@
 # Pipes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.6.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.6. Implements example of multiple pipes, including - 
+    * TitleCase Pipe
+    * Date Pipe
+    * Currency Pipe
+    * Decimal Pipe
+    * Custom Pipes
 
 ## Development server
 
